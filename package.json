@@ -1,0 +1,14 @@
+{
+  "name": "learning-travis-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint hello.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  }
+}
